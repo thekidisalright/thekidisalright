@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey! I'm Alexandre 💜
 
-<!--
-**thekidisalright/thekidisalright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 working on my portfolio and some other personal projects
+- 🌱 learning CSS3, C# and SQL
+- 📫 email: dev.alexandresilva@gmail.com
+- 😄 pronouns: he/him/they/them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/thekidisalright">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekidisalright&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekidisalright&layout=compact&langs_count=16&theme=nightowl"/>
+</div>
+  
+<div style="display: inline-block"><br>
+  <img alt="html5" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="css3" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="c-sharp" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img alt="python" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+</div>
