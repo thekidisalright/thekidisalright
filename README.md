@@ -1,8 +1,8 @@
 ### Hey! I'm Alexandre 💜
 
 
-- 🔭 working on my portfolio and some other personal projects
-- 🌱 learning CSS3, C# and SQL
+- 🔭 working on my thesis
+- 🌱 learning c#, sql, php, arduino, ionic angular, typescript.
 - 📫 email: dev.alexandresilva@gmail.com
 - 😄 pronouns: he/him/they/them
 
