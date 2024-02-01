@@ -2,7 +2,7 @@
 
 
 - 🔭 working on my thesis
-- 🌱 learning c#, sql, php, arduino, ionic angular, typescript.
+- 🌱 learning javascript and php
 - 📫 email: dev.alexandresilva@gmail.com
 - 😄 pronouns: he/him/they/them
 
