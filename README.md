@@ -1,10 +1,12 @@
-### :wave: Olá
-#### Alexandre Silva, 19 anos
+# Olá, eu sou Alexandre 👋
 
-Desenvolvedor Full-Stack, designer e estudante.
+Desenvolvedor fullstack e estudante de Sistemas de Informação.
 
-- ⚙️ TechStack: `React`, `MongoDB`, `MySQL`, `Node.js`, `JavaScript`, `HTML`, `CSS`;
-- 🪐 Idealizador, designer e desenvolvedor da [CosmicTasks](https://github.com/CosmicTasks);
-- 💜 Hobbies: Cinema, música, programação e design.
+---
 
-✉️ [dev.alexandresilva@gmail.com](mailto:dev.alexandresilva@gmail.com)
+### 🚀 Em Destaque
+* **[CosmicTasks](https://github.com/CosmicTasks):** Sistema de gerenciamento de tarefas, produtividade e foco.
+
+### 📫 Onde me encontrar
+* [LinkedIn](https://www.linkedin.com/in/dev-alexandre-silva/)
+* [E-mail](mailto:dev.alexandresilva@gmail.com)
