@@ -12,7 +12,7 @@
 
 ```
 ~ projetos
-  ├─ 🎧 echoes      →  em desenvolvimento · typescript
+  ├─ 🎧 echoes      →  em desenvolvimento · flutter
   └─ 📨 expedito    →  controle de expedição logística · nextjs e supabase
 ```
 
